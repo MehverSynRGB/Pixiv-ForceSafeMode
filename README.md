@@ -2,14 +2,14 @@
 > Archived and no longer maintained since `Nov 29, 2022` (`v1.6`) due to impracticality. Please note that compatibility issues may arise as websites update.
 
 <div align="center">
-    <img src="https://github.com/SynRGB/Pixiv-ForceSafeMode/raw/main/%23README/icon/256.png" width="20%"/>
+    <img src="https://github.com/MehverSynRGB/Pixiv-ForceSafeMode/raw/main/docs/icon/256.png" width="20%"/>
     <h1>Pixiv-ForceSafeMode <code>v1.6</code></h1>
 	<p>
-        <a href='https://github.com/SynRGB/Pixiv-ForceSafeMode'><img src="https://img.shields.io/badge/-GitHub-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
+        <a href='https://github.com/MehverSynRGB/Pixiv-ForceSafeMode'><img src="https://img.shields.io/badge/-GitHub-3A3A3A?style=flat&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a>
 	    <a href='https://greasyfork.org/zh-CN/scripts/453648-pixiv-forcesafemode'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         <a href='https://openuserjs.org/scripts/TitanRGB/Pixiv-ForceSafeMode'><img src="https://img.shields.io/badge/-OpenUserJS-004796?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="OpenUserJS"></a>
     </p>
-    <p>English | <a href='https://github.com/SynRGB/Pixiv-ForceSafeMode/blob/main/%23README/README-zh.md'>简体中文</a> | <a href="https://github.com/SynRGB/Pixiv-ForceSafeMode/blob/main/%23README/README-ja.md">日本語</a></p>
+    <p>English | <a href='https://github.com/MehverSynRGB/Pixiv-ForceSafeMode/blob/main/docs/README-zh.md'>简体中文</a> | <a href="https://github.com/MehverSynRGB/Pixiv-ForceSafeMode/blob/main/docs/README-ja.md">日本語</a></p>
 </div>
 
 ## Description

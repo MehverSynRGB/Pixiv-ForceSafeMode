@@ -18,10 +18,10 @@
 // @grant               GM_setValue
 // @grant               GM_getValue
 // @grant               unsafeWindow
-// @homepageURL         https://github.com/SynRGB/Pixiv-ForceSafeMode
-// @contributionURL     https://github.com/SynRGB/Pixiv-ForceSafeMode
-// @updateURL           https://github.com/SynRGB/Pixiv-ForceSafeMode/releases/new
-// @copyright           Copyright © 2022-PRESENT, TitanRGB (https://github.com/TitanRGB)
+// @homepageURL         https://github.com/MehverSynRGB/Pixiv-ForceSafeMode
+// @contributionURL     https://github.com/MehverSynRGB/Pixiv-ForceSafeMode
+// @updateURL           https://github.com/MehverSynRGB/Pixiv-ForceSafeMode/releases/new
+// @copyright           Copyright (c) 2022 Mehver (https://github.com/Mehver). All rights reserved.
 // @charset             UTF-8
 // @run-at              document-end
 // ==/UserScript==
@@ -205,4 +205,4 @@ observer.observe(document.body, {
     subtree: true
 });
 
-console.log("JS script Pixiv-ForceSafeMode (Pixiv-强制和谐模式) loaded. See more details at https://github.com/SynRGB/Pixiv-QuickSafeMode");
+console.log("JS script Pixiv-ForceSafeMode (Pixiv-强制和谐模式) loaded. See more details at https://github.com/MehverSynRGB/Pixiv-QuickSafeMode");
