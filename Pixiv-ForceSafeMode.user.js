@@ -205,4 +205,4 @@ observer.observe(document.body, {
     subtree: true
 });
 
-console.log("JS script Pixiv-ForceSafeMode (Pixiv-强制和谐模式) loaded. See more details at https://github.com/MehverSynRGB/Pixiv-QuickSafeMode");
+console.log("Script Pixiv-ForceSafeMode (Pixiv-强制和谐模式) loaded successfully. https://github.com/MehverSynRGB/Pixiv-ForceSafeMode");
